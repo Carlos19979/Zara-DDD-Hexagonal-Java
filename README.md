@@ -1,13 +1,13 @@
 # Zara REST
-This project is a RESTful API built with Java Spring Boo.
+This project is a RESTful API built with Java Spring Boot.
 
 ## Technologies
 
-Java 11
-Spring Boot
-Hibernate
-MySQL
-Maven
+- Java 11
+- Spring Boot
+- Hibernate
+- MySQL
+- Maven
 
 ## Getting Started
 Clone the repository to your local machine: git clone https://github.com/your-username/your-repo.git

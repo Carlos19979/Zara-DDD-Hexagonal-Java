@@ -1,4 +1,4 @@
-#Zara REST
+# Zara REST
 This project is a RESTful API built with Java Spring Boo.
 
 ##Technologies
